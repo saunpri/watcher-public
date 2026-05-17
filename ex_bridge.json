@@ -1,0 +1,21 @@
+{
+  "timestamp_utc": "2026-05-17T13:36:24.212361+00:00",
+  "latest_regime": "breakout_test",
+  "latest_bias": "neutral",
+  "watcher_verdict": "balanced; wait for confirmation at key levels",
+  "challenge_signals": [
+    null,
+    "price_at_upside_gate",
+    null
+  ],
+  "supports": {
+    "primary": 67929,
+    "strength_zone_low": 68295,
+    "strength_zone_high": 68658,
+    "defense_low": 65934
+  },
+  "upside_gates": {
+    "gate_1": 72641,
+    "gate_2": 74457
+  }
+}
