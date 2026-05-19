@@ -16227,3 +16227,4 @@ timestamp_utc,signal_type,signal_text
 2026-05-19T08:32:35.374744+00:00,upside_gate_test,Price reached or exceeded upside gate 72641
 2026-05-19T08:37:39.006847+00:00,upside_gate_test,Price reached or exceeded upside gate 72641
 2026-05-19T08:42:40.638733+00:00,upside_gate_test,Price reached or exceeded upside gate 72641
+2026-05-19T08:47:45.852998+00:00,upside_gate_test,Price reached or exceeded upside gate 72641
