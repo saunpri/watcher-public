@@ -1,2 +1,2 @@
 timestamp_utc,price,rsi_15m,rsi_1h,rsi_1d,rsi_1w,funding_latest,open_interest,price_vs_oi,regime,bias,breakout_risk,flush_risk,support_state,watcher_verdict
-2026-05-24T06:37:42.294844+00:00,76769.0,52.38681237358124,60.10418891390208,45.80804365787796,45.58539716815005,9.044e-05,102640.589,price_up_oi_down_short_covering,breakout_test,neutral,high,medium,holding_primary_support,balanced; wait for confirmation at key levels
+2026-05-24T06:42:46.381704+00:00,76766.0,52.24027945644527,60.03073953380695,45.79527572157411,45.58243617630293,9.044e-05,102642.501,price_up_oi_down_short_covering,breakout_test,neutral,high,medium,holding_primary_support,balanced; wait for confirmation at key levels
