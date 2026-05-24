@@ -1,2 +1,2 @@
 timestamp_utc,price,rsi_15m,rsi_1h,rsi_1d,rsi_1w,funding_latest,open_interest,price_vs_oi,regime,bias,breakout_risk,flush_risk,support_state,watcher_verdict
-2026-05-24T00:25:11.185825+00:00,76648.3,59.70815741731102,59.885520577502575,45.36574955749782,45.466953380330246,9.044e-05,102959.876,price_down_oi_down_long_unwind,breakout_test,bullish,high,medium,holding_primary_support,constructive under resistance; favor long only on acceptance
+2026-05-24T00:30:14.902914+00:00,76689.21,61.393201860223805,60.60779073250729,45.510947543673296,45.50703612669345,9.044e-05,102966.421,price_down_oi_down_long_unwind,breakout_test,bullish,high,medium,holding_primary_support,constructive under resistance; favor long only on acceptance
