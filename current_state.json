@@ -1,19 +1,19 @@
 {
-  "timestamp_utc": "2026-05-28T02:25:01.251077+00:00",
+  "timestamp_utc": "2026-05-28T02:30:28.564651+00:00",
   "metrics": {
-    "price": 74222.53,
-    "rsi_15m": 35.01810018521621,
-    "rsi_1h": 29.525331855974883,
-    "rsi_1d": 37.516489736381345,
-    "rsi_1w": 43.01830317228997,
+    "price": 74248.11,
+    "rsi_15m": 36.565855008336634,
+    "rsi_1h": 29.818865258537727,
+    "rsi_1d": 37.49726370568508,
+    "rsi_1w": 43.040590582612246,
     "funding_latest": 0.0001,
-    "open_interest": 101212.203,
-    "price_vs_oi": "price_down_oi_down_long_unwind"
+    "open_interest": 101179.229,
+    "price_vs_oi": "price_up_oi_down_short_covering"
   },
   "state": {
     "regime": "breakout_test",
     "bias": "neutral",
-    "price_vs_oi": "price_down_oi_down_long_unwind",
+    "price_vs_oi": "price_up_oi_down_short_covering",
     "breakout_risk": "high",
     "flush_risk": "medium",
     "support_state": "holding_primary_support",
