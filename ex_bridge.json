@@ -1,8 +1,8 @@
 {
-  "timestamp_utc": "2026-05-30T03:22:58.017463+00:00",
+  "timestamp_utc": "2026-05-30T03:27:59.072876+00:00",
   "latest_regime": "breakout_test",
-  "latest_bias": "bullish",
-  "watcher_verdict": "constructive under resistance; favor long only on acceptance",
+  "latest_bias": "neutral",
+  "watcher_verdict": "balanced; wait for confirmation at key levels",
   "challenge_signals": [
     null,
     "price_at_upside_gate",
