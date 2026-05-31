@@ -1,13 +1,13 @@
 {
-  "timestamp_utc": "2026-05-31T15:32:05.524919+00:00",
+  "timestamp_utc": "2026-05-31T15:32:30.801473+00:00",
   "metrics": {
-    "price": 73731.27,
-    "rsi_15m": 42.502584717619385,
-    "rsi_1h": 43.68137270001359,
+    "price": 73731.28,
+    "rsi_15m": 42.503184346350984,
+    "rsi_1h": 43.68183441780089,
     "rsi_1d": 37.127362217778085,
     "rsi_1w": 42.55975279003273,
     "funding_latest": 5.663e-05,
-    "open_interest": 104792.672,
+    "open_interest": 104792.212,
     "price_vs_oi": "price_down_oi_down_long_unwind"
   },
   "state": {
